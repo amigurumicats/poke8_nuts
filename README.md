@@ -16,7 +16,6 @@ python >= 3.6
 - 殿堂入り済
 
 ## 分析(anapyze.py)
-※WIP
 ```
 python analyze.py data.csv
 ```
